@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 
-## Basic Website Layout and Styling
+## 1 Basic Website Layout and Styling
+
+* [1-2-1 viewport tags](1-2-1-viewport-tags.md)
 
 ## Front End Networking
 
