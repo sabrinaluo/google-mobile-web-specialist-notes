@@ -4,19 +4,20 @@
 
 ## 1 Basic Website Layout and Styling
 
-* [1-2-1 viewport tags](1-2-1-viewport-tags.md)
+* [1-2-2 Viewport tags](1-2-2-viewport-tags.md)
+* [1-4-1 Media query](1-4-1-media-query.md)
 
-## Front End Networking
+## 2 Front End Networking
 
-## Accessibility
+## 3 Accessibility
 
-## Progressive Web Apps
+## 4 Progressive Web Apps
 
-## Performance Optimization and Caching
+## 5 Performance Optimization and Caching
 
-## Testing and Debugging
+## 6 Testing and Debugging
 
-## ES2015 Concepts and Syntax
+## 7 ES2015 Concepts and Syntax
 
-## Mobile Web Forms
+## 8 Mobile Web Forms
 
