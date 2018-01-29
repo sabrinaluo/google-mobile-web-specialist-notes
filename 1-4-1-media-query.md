@@ -1,5 +1,25 @@
 # Media queries that provide fluid breakpoints across different screen sizes
 
+### Embed media query in css file
+```css
+<link rel="stylesheet" href="print.css" media="print">
+```
+
+```css
+@media print {
+  /* print style sheets go here */
+}
+```
+
+```css
+@import url(print.css) print;
+```
+尽量避免使用`@import`，因为会影响页面速度，只有当含有`@import`的这个css文件被收到和解析之后，导入的css才会加载和解析。
+
+> #### Avoid CSS imports
+> The CSS import (@import) directive enables one stylesheet to import rules from another stylesheet file. However, avoid these directives because they introduce additional roundtrips into the critical path: the imported CSS resources are discovered only after the CSS stylesheet with the @import rule itself is received and parsed. [^0]
+
+
 ### Media type
 
 Media type 用于描述设备的类型[^1]，可能的值为 `all` `screen` `print` `speech`
@@ -112,7 +132,7 @@ Media feature 用于描述设备、浏览器、环境的特定属性，常用到
 ```css
 @media (min-height: 680px), screen and (orientation: portrait) { ... }
 ```
-
+[^0]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path/page-speed-rules-and-recommendations
 [^1]: https://developer.mozilla.org/en-US/docs/Web/CSS/@media#Media_types
 [^2]: https://www.w3.org/TR/css3-mediaqueries/#media0
 [^3]: https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries

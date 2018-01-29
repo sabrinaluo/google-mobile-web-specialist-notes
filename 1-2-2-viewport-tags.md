@@ -31,5 +31,6 @@ _由于 iphone 等高分辨率的手机使用 retina 屏幕，其像素密度大
 * 网页内容不应该依赖某个特定宽度
 * 使用百分比来设置元素的宽度`100%`
 
-
+### 参考
+[1] https://developers.google.com/web/fundamentals/design-and-ux/responsive/
 

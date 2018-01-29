@@ -6,6 +6,7 @@
 
 * [1-2-2 Viewport tags](1-2-2-viewport-tags.md)
 * [1-4-1 Media query](1-4-1-media-query.md)
+* [1-4-2 Fluid breakpoints of responsive design](1-4-2-breakpoints-of-responsive-design.md)
 
 ## 2 Front End Networking
 
