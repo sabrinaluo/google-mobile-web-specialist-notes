@@ -5,8 +5,10 @@
 ## 1 Basic Website Layout and Styling
 
 * [1-2-2 Viewport tags](1-2-2-viewport-tags.md)
+* [1-3-1 Grid based responsive layout](1-3-1-grid-based-responsive-layout.md)
 * [1-4-1 Media query](1-4-1-media-query.md)
 * [1-4-2 Fluid breakpoints of responsive design](1-4-2-breakpoints-of-responsive-design.md)
+* [1-6-1 Responsive image](1-6-1-responsive-image.md)
 
 ## 2 Front End Networking
 
