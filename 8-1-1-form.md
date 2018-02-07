@@ -2,7 +2,15 @@
 
 ### 表单元素 [^1]
 - button
-- datalist 很像select，区别是除了列出的选项，用户还可以随意输入任何值，同时也能根据用户输入的值过滤出一个符合的列表显示出来。safari不支持此元素。
+- datalist 很像select，区别是除了列出的选项，用户还可以随意输入任何值，同时也能根据用户输入的值过滤出一个符合的列表显示出来。需要配合`input`使用。safari不支持此元素，只会显示对应的`input`。firfox中，不可以根据value进行搜索，list中只显示`option`中的内容。
+```html
+<input list="browsers" name="myBrowser" />
+<datalist id="browsers">
+  <option value="Chrome">
+  <option value="Firefox">
+  <option value="Internet Explorer">
+</datalist>
+```
 - fieldset 默认样式是有个方框框起所有子元素
 - form
 - input
