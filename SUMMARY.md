@@ -13,6 +13,8 @@
 ## 2 Front End Networking
 
 * [2-1-1 Fetch API](2-1-1-fetch-api.md)
+* [2-2-1 CORS](2-2-1-cors.md)
+* [2-3-1 Promise chain](2-3-1-promise-chain.md)
 
 ## 3 Accessibility
 
