@@ -12,6 +12,8 @@
 
 ## 2 Front End Networking
 
+* [2-1-1 Fetch API](2-1-1-fetch-api.md)
+
 ## 3 Accessibility
 
 ## 4 Progressive Web Apps
