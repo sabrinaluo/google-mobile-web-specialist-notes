@@ -22,6 +22,8 @@
 
 ## 5 Performance Optimization and Caching
 
+* [5-1-1 Performance Optimization Intro](5-1-1-performance-optimization-intro.md)
+
 ## 6 Testing and Debugging
 
 ## 7 ES2015 Concepts and Syntax
