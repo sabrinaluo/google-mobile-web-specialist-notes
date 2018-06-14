@@ -27,6 +27,8 @@
 
 ## 6 Testing and Debugging
 
+* [6-1 Intro](6-1-intro.md)
+
 ## 7 ES2015 Concepts and Syntax
 
 ## 8 Mobile Web Forms
