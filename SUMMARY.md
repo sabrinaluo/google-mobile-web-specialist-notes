@@ -23,6 +23,7 @@
 ## 5 Performance Optimization and Caching
 
 * [5-1-1 Performance Optimization Intro](5-1-1-performance-optimization-intro.md)
+* [5-1-4 Client Storage](5-4-1-client-storage.md)
 
 ## 6 Testing and Debugging
 
