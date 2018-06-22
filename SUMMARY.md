@@ -23,7 +23,10 @@
 ## 5 Performance Optimization and Caching
 
 * [5-1-1 Performance Optimization Intro](5-1-1-performance-optimization-intro.md)
-* [5-1-4 Client Storage](5-4-1-client-storage.md)
+* [5-3-1 Preload](5-3-1-preload.md)
+* [5-3-2 Prefetch](5-3-2-prefetch.md)
+* [5-3-3 Preconnect](5-3-3-preconnect.md)
+* [5-4-1 Client Storage](5-4-1-client-storage.md)
 
 ## 6 Testing and Debugging
 
