@@ -31,6 +31,8 @@
 
 ## 7 ES2015 Concepts and Syntax
 
+* [7-6 for ... of](7-6-for-of.md)
+
 ## 8 Mobile Web Forms
 
 * [8-1-1 Form](8-1-1-form.md)
